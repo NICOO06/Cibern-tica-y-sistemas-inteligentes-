@@ -1,5 +1,3 @@
-// bifurcation.cpp
-// Genera datos para un diagrama de bifurcacion (archivo bifurcation.csv)
 #include <iostream>
 #include <fstream>
 
